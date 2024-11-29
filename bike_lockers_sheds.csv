@@ -1,0 +1,171 @@
+﻿TSN,Suburb,Interchange Type,SITE_ID,Location,Type,Total Lockers at Location,Total Spaces at Shed,Horizontal Rack Spaces,Wall Mounted Low Spaces,Wall Mounted High Spaces,Latitude,Longitude
+215020,Parramatta,Station,177,Parramatta Station (Cnr Hassall & Station St),Bike Shed,,55,28,13,14,-33.81805331,151.0063347
+201710,Green Square,Station,,"Green Square (O'Riordan St and Botany Rd, Alexandria), Green Square",Bike Shed,,51,26,12,13,-33.905986,151.202563
+276220,Schofields,Station,185,Schofields Station (Railway Terrace),Bike Shed,,51,26,13,12,-33.70388787,150.8738041
+225610,Woy Woy,Station,173,"Woy Woy Station  (Brisbane Water Dr) 1, Woy Woy",Bike Shed,,51,26,13,12,-33.48482696,151.323968
+213110,Ashfield,Station,,"Ashfield Station (Brown Street), Ashfield",Bike Shed,,50,50,,,-33.88823,151.12688
+202710,Edgecliff,Station,,"Edgecliff Train Station , Edgecliff ",Bike Shed,,48,24,12,12,-33.87873,151.23629
+223210,Sutherland,Station,189,"Sutherland Station (East Pde) 1, Sutherland",Bike Shed,,40,20,10,10,-34.0326404,151.0562419
+225040,Gosford,Station,179,Gosford Station (Burns Cres),Bike Shed,,38,8,14,16,-33.42392901,151.3417883
+277010,Mount Druitt,Station,186,Mount Druitt Station (North Pde),Bike Shed,,37,20,8,9,-33.76921583,150.8187147
+2126158,Cherrybrook,Station,,"Cherrybrook Station, Cherrybrook",Bike Shed,,36,36,,,-33.73672,151.03188
+2155382,Kellyville,Station,,"Kellyville Station, Kellyville",Bike Shed,,36,36,,,-33.71223,150.93394
+2153477,Norwest,Station,,"Norwest Station, Norwest",Bike Shed,,36,36,,,-33.73459,150.9636
+2155227,Rouse HIll,Station,,"Rouse Hill Station, Rouse Hill",Bike Shed,,36,36,,,-33.69092,150.92347
+2154392,"Showground 
+",Station,,"Showground Station, Showground",Bike Shed,,36,36,,,-33.72813,150.98649
+2155384,Tallawong,Station,,"Tallawong Station, Tallawong",Bike Shed,,36,36,,,-33.69167,150.9064
+212110,Epping,Station,,"Epping Station  (Langston Pl), Epping",Bike Shed,,34,6,14,14,-33.773518,151.082757
+207720,Hornsby,Station,,"Hornsby Station  (Cnr Station & Jersey St), Hornsby",Bike Shed,,33,18,8,7,-33.70366,151.09865
+214810,Blacktown,Station,174,"Blacktown Station  (Main St), Blacktown",Bike Shed,,32,16,8,8,-33.76867455,150.9066168
+275020,Emu Plains,Station,191,Emu Plains Station (Mackellar St),Bike Shed,,32,16,8,8,-33.74553079,150.6715404
+275010,Penrith,Station,188,Penrith Station (Belmore St),Bike Shed,,32,16,8,8,-33.75035953,150.6946401
+201510,Redfern,Station,192,Redfern Station (Lawson St),Bike Shed,,32,32,,,-33.891874,151.1994
+210020,Brookvale,Station,,"Brookvale (William St), Brookvale",Bike Shed,,32,32,,,-33.76807,151.269
+217020,Liverpool,Station,178,Liverpool Station (Bigge St),Bike Shed,,31,16,7,8,-33.92453608,150.9273781
+256510,Ingleburn,Station,193,Ingleburn Station (Ingleburn Rd),Bike Shed,,28,28,,,-33.99805032,150.8641962
+256020,Campbelltown,Station,175,"Campbelltown Station  (Hurley St), Campbelltown",Bike Shed,,27,12,7,8,-34.064658,150.8136527
+2153478,Bella Vista,Station,,"Bella Vista Station, Bella Vista",Bike Shed,,26,26,,,-33.73018,150.94373
+220410,Marrickville,Station,184,Marrickville Station (Station St),Bike Shed,,25,16,5,4,-33.91403454,151.1532033
+222910,Caringbah,Station,180,"Caringbah Station (Kingsway), Caringbah",Bike Shed,,24,12,6,6,-34.04170579,151.1210076
+217310,Holsworthy,Station,181,Holsworthy Station (The Boulevarde),Bike Shed,,24,12,6,6,-33.96281686,150.9563172
+213820,Rhodes,Station,,"Rhodes Station (Blaxland Road), Rhodes",Bike Shed,,24,12,6,6,-33.830413,151.087312
+214710,Seven Hills,Station,182,Seven Hills Station (Terminus Rd),Bike Shed,,24,12,6,6,-33.77390333,150.9368647
+256030,Macarthur,Station,187,Macarthur Station (Menangle Rd),Bike Shed,,21,12,5,4,-34.0721,150.79744
+211420,West Ryde,Station,183,West Ryde Station (West Parade),Bike Shed,,19,7,6,6,-33.80703026,151.0900442
+203294,Kingsford,Station,,"Kingsford, Kingsford",Bike Shed,,18,18,,,-33.92566,151.23006
+2154190,Castle Hill,Station,,"Castle Hill Station, Castle Hill",Bike Shed,,16,16,,,-33.73162,151.00731
+2093117,Manly Vale,Station,,"84 Kenneth Rd, Manly Vale",Bike Shed,,12,12,,,-33.78645,151.26715
+2101131,Warriewood,Station,,"Warriewood, Warriewood",Bike Shed,,12,12,,,-33.696702,151.301627
+206410,Artarmon,Station,3,Artarmon Station (Elizabeth St),Bike Locker,8,,,,,-33.80850503,151.1853695
+213110,Ashfield,Station,172,Ashfield Station (Brown St),Bike Locker,2,,,,,-33.8878964,151.1260019
+214410,Auburn,Station,5,Auburn Station (South Pde),Bike Locker,8,,,,,-33.8489888,151.0322453
+220010,Bankstown,Station,8,Bankstown Station (South Tce),Bike Locker,2,,,,,-33.91793683,151.0355403
+211910,Beecroft,Station,9,Beecroft Station (cnr Sutherland & Copeland Rds),Bike Locker,4,,,,,-33.75082831,151.0662553
+208110,Berowra,Station,11,Berowra Station (Pacific Hwy),Bike Locker,12,,,,,-33.62280866,151.1538247
+278510,Blackheath,Station,13,Blackheath Station (Station St),Bike Locker,2,,,,,-33.63369663,150.2845195
+214810,Blacktown,Station,15,Blacktown Station (Main St),Bike Locker,4,,,,,-33.76866085,150.906694
+214810,Blacktown,Station,14,Blacktown Station (Boys Ave),Bike Locker,12,,,,,-33.76803837,150.9082637
+277410,Blaxland,Station,157,Blaxland Station (Wilson Way) 2,Bike Locker,2,,,,,-33.74355135,150.6097304
+277410,Blaxland,Station,16,Blaxland Station (Wilson Way) 1,Bike Locker,4,,,,,-33.74305159,150.6090575
+254110,Bomaderry,Station,17,Bomaderry Station (Meroo St),Bike Locker,4,,,,,-34.854507,150.609115
+202210,Bondi Junction,Station,18,Bondi Junction Station (cnr Grafton & Newlands Sts),Bike Locker,12,,,,,-33.8905273,151.2480057
+21371,Cabarita,Wharf,23,Cabarita Wharf (Cabarita Rd),Bike Locker,6,,,,,-33.84155216,151.1166822
+256020,Campbelltown,Station,24,Campbelltown Station (Hurley St),Bike Locker,6,,,,,-34.06445297,150.813743
+256020,Campbelltown,Station,25,Campbelltown Station (Farrow Rd),Bike Locker,4,,,,,-34.0628861,150.8147493
+219320,Canterbury,Station,26,Canterbury Station (Broughton St),Bike Locker,4,,,,,-33.91143155,151.1184341
+206710,Chatswood,Station,152,Chatswood Station (Thomas La),Bike Locker,11,,,,,-33.79824913,151.1807752
+206710,Chatswood,Station,151,Chatswood Station (Help St),Bike Locker,5,,,,,-33.7956917,151.1810138
+222610,Como,Station,29,Como Station (Como Pde),Bike Locker,2,,,,,-34.00558361,151.0684261
+213810,Concord West,Station,166,Concord West Station (Queen St),Bike Locker,4,,,,,-33.84817493,151.0857206
+213810,Concord West,Station,165,Concord West Station (King St),Bike Locker,2,,,,,-33.84815022,151.0853293
+250030,Coniston,Station,31,Coniston Station (Gladstone Ave),Bike Locker,4,,,,,-34.43736371,150.8852845
+251820,Corrimal,Station,33,Corrimal Station (Railway St),Bike Locker,2,,,,,-34.37499681,150.904968
+253020,Dapto,Station,35,Dapto Station (cnr Station St & Bong Bong Rd),Bike Locker,6,,,,,-34.493462,150.7919867
+276710,Doonside,Station,37,Doonside Station (School Pde),Bike Locker,2,,,,,-33.76377566,150.8711286
+221320,East Hills,Station,38,East Hills Station (Park Rd),Bike Locker,6,,,,,-33.96137355,150.9846556
+275020,Emu Plains,Station,41,Emu Plains Station (Railway Row),Bike Locker,16,,,,,-33.7460856,150.6716038
+275020,Emu Plains,Station,40,Emu Plains Station (Mackellar St),Bike Locker,14,,,,,-33.74532789,150.6717621
+223310,Engadine,Station,42,Engadine Station (Princes Hwy),Bike Locker,4,,,,,-34.0669908,151.0153455
+212110,Epping,Station,43,Epping Station (Langston Pl),Bike Locker,20,,,,,-33.77340059,151.0826873
+251910,Fairy Meadow,Station,44,Fairy Meadow Station (Montague St),Bike Locker,4,,,,,-34.39533404,150.8970776
+277310,Glenbrook,Station,47,Glenbrook Station (Burfitt Pde),Bike Locker,4,,,,,-33.7689691,150.6217707
+216710,Glenfield,Station,163,Glenfield Station (Roy Watts Rd - Station Entry),Bike Locker,6,,,,,-33.9717,150.89328
+216710,Glenfield,Station,48,Glenfield Station (Roy Watts Rd),Bike Locker,6,,,,,-33.97104358,150.8939508
+207210,Gordon,Station,167,Gordon Station (Henry Street),Bike Locker,6,,,,,-33.75526394,151.1534164
+225040,Gosford,Station,49,Gosford Station (Burns Cres),Bike Locker,8,,,,,-33.42307793,151.341989
+214240,Granville,Station,50,Granville Station (Mary St),Bike Locker,4,,,,,-33.83389492,151.0114591
+277910,Hazelbrook,Station,156,Hazelbrook Station (Railway Pde),Bike Locker,2,,,,,-33.72393976,150.4540428
+223320,Heathcote,Station,51,Heathcote Station (Princes Hwy),Bike Locker,4,,,,,-34.08775,151.008798
+250810,Helensburgh,Station,52,Helensburgh Station (Tunnel Rd),Bike Locker,4,,,,,-34.17728138,150.9933505
+217310,Holsworthy,Station,160,Holsworthy Station (The Boulevarde),Bike Locker,10,,,,,-33.96284,150.95632
+217310,Holsworthy,Station,53,Holsworthy Station (The Boulevarde) Car Park,Bike Locker,6,,,,,-33.96250264,150.9553444
+207720,Hornsby,Station,54,Hornsby Station (Peats Ferry Rd),Bike Locker,12,,,,,-33.70398649,151.0984488
+207720,Hornsby,Station,55,Hornsby Station  (Cnr Station & Jersey St),Bike Locker,12,,,,,-33.70198216,151.0981845
+256510,Ingleburn,Station,57,Ingleburn Station (Ingleburn Rd) 2,Bike Locker,12,,,,,-33.99879883,150.8633909
+222620,Jannali,Station,58,Jannali Station (Railway Cres),Bike Locker,4,,,,,-34.01648833,151.0648705
+278020,Katoomba,Station,59,Katoomba Station (Goldsmith Pl),Bike Locker,4,,,,,-33.71198986,150.3123211
+2155382,Kellyville,Station,22,Burns Rd T-Way Station,Bike Locker,5,,,,,-33.72139028,150.9392551
+2155382,Kellyville,Station,107,Riley Dr T-Way Station (cnr Old Windsor Rd & Samantha Riley Dr),Bike Locker,5,,,,,-33.71220576,150.9342438
+253330,Kiama,Station,60,Kiama Station (Bong Bong & Eddy Sts),Bike Locker,4,,,,,-34.6728349,150.8541057
+220810,Kingsgrove,Station,61,Kingsgrove Station (Kingsgrove Ave),Bike Locker,4,,,,,-33.93995975,151.1013177
+274720,Kingswood,Station,161,Kingswood Station (Great Western Hwy),Bike Locker,10,,,,,-33.75858494,150.7204003
+221710,Kogarah,Station,63,Kogarah Station (Station St),Bike Locker,6,,,,,-33.962549,151.13225
+206618,Lane Cove North,Station,70,Lane Cove Bus Interchange (cnr Longueville Rd & Parklands Ave),Bike Locker,4,,,,,-33.81214877,151.1716308
+256010,Leumeah,Station,64,Leumeah Station (O'Sullivan Rd),Bike Locker,8,,,,,-34.05125,150.83009
+214110,Lidcombe,Station,66,Lidcombe Station (cnr Mark & Railway Sts),Bike Locker,6,,,,,-33.86421289,151.0456812
+217020,Liverpool,Station,68,Liverpool Station (Bigge St),Bike Locker,2,,,,,-33.92448197,150.927419
+223220,Loftus,Station,69,Loftus Station (Loftus Ave),Bike Locker,4,,,,,-34.04584,151.0512
+256020,Macarthur,Station,71,Macarthur Station (Menangle Rd),Bike Locker,10,,,,,-34.07245,150.79752
+256410,Macquarie Fields,Station,72,Macquarie Fields Station (Railway Pde),Bike Locker,4,,,,,-33.98517632,150.8786963
+211340,Macquarie Park,Station,148,Macquarie Park Station (Waterloo Rd) (E),Bike Locker,4,,,,,-33.78585278,151.1296945
+211340,Macquarie Park,Station,149,Macquarie Park Station (Waterloo Rd) (W),Bike Locker,4,,,,,-33.78421396,151.1274841
+211340,Macquarie Park,Station,146,Macquarie University Station (Waterloo Rd) (E),Bike Locker,4,,,,,-33.77789365,151.11912
+211340,Macquarie Park,Station,147,Macquarie University Station (Waterloo Rd) (W),Bike Locker,4,,,,,-33.77671377,151.1175438
+232020,Maitland,Station,158,"Maitland Station, Station St",Bike Locker,2,,,,,-32.73774447,151.5531225
+214820,Marayong,Station,74,Marayong Station (Railway Rd),Bike Locker,4,,,,,-33.74726038,150.9000804
+211430,Meadowbank,Wharf,75,Meadowbank Wharf (Bay Dr),Bike Locker,12,,,,,-33.81990004,151.0895543
+211430,Meadowbank,Station,76,Meadowbank Station (Bank St),Bike Locker,4,,,,,-33.81725199,151.0896454
+216010,Merrylands,Station,77,Merrylands Station (Terminal Pl),Bike Locker,3,,,,,-33.83597527,150.9922672
+253310,Minnamurra,Station,78,Minnamurra Station (cnr North St & Railway Ave),Bike Locker,4,,,,,-34.6266547,150.853047
+256610,Minto,Station,79,Minto Station (Somerset St),Bike Locker,10,,,,,-34.02718,150.84222
+222810,Miranda,Station,80,Miranda Station (Gibbs St),Bike Locker,2,,,,,-34.03665774,151.1035422
+226410,Morisset,Station,154,Morisset Station (Dora St),Bike Locker,4,,,,,-33.108461,151.4883547
+277010,Mount Druitt,Station,82,Mount Druitt Station (cnr Beames Av & Coates St),Bike Locker,4,,,,,-33.77005101,150.8197373
+277010,Mount Druitt,Station,81,Mount Druitt Station (North Pde),Bike Locker,4,,,,,-33.76922433,150.8188059
+2250772,Narara,Station,83,Narara Station (Narara Valley Dr),Bike Locker,6,,,,,-33.39378692,151.3450163
+211320,North Ryde,Station,150,North Ryde Station (Delhi Rd),Bike Locker,4,,,,,-33.79482003,151.1389527
+213710,North Strathfield,Station,86,North Strathfield Station (Queen St),Bike Locker,8,,,,,-33.85934888,151.088802
+252920,Oak Flats,Station,88,Oak Flats Station (Stanford Dr),Bike Locker,2,,,,,-34.57187951,150.8201867
+225810,Ourimbah,Station,89,Ourimbah Station (Mill St),Bike Locker,4,,,,,-33.35947489,151.3703669
+221110,Padstow,Station,90,Padstow Station (Cahors Road),Bike Locker,4,,,,,-33.95137059,151.0319532
+215020,Parramatta,Station,91,Parramatta Station (Wentworth St),Bike Locker,12,,,,,-33.8186591,151.0046894
+215020,Parramatta,Station,92,Parramatta Station (Cnr Darcy and Station St),Bike Locker,12,,,,,-33.81754162,151.0057746
+215020,Parramatta,Wharf,94,Parramatta Wharf (Charles St),Bike Locker,5,,,,,-33.81359253,151.0099075
+214530,Pendle Hill,Station,95,Pendle Hill Station (Wentworth Ave),Bike Locker,4,,,,,-33.80052273,150.9557201
+212020,Pennant Hills,Station,96,Pennant Hills Station (Yarrara Rd),Bike Locker,4,,,,,-33.73718889,151.0722127
+275010,Penrith,Station,98,Penrith Station (Belmore St),Bike Locker,32,,,,,-33.75061312,150.6974392
+275010,Penrith,Station,97,Penrith Station (Coreen Ave),Bike Locker,8,,,,,-33.749446,150.6956089
+225030,Point Claire,Station,99,Point Clare Station (Kurrawa Ave),Bike Locker,4,,,,,-33.44500014,151.3286002
+2176261,Prairiewood,Station,101,Prairiewood T-Way Station (Wetherill Park Shopping Centre),Bike Locker,4,,,,,-33.85906009,150.8967569
+211217,Putney,Wharf,62,Kissing Point Wharf (Waterview St),Bike Locker,2,,,,,-33.83074155,151.1017941
+214310,Regents Park,Station,102,Regents Park Station (Amy St),Bike Locker,4,,,,,-33.8833419,151.0244265
+221210,Revesby,Station,105,Revesby Station (Blamey St),Bike Locker,4,,,,,-33.9526721,151.0150722
+221210,Revesby,Station,104,Revesby Station (Marco Ave),Bike Locker,4,,,,,-33.9520454,151.0152563
+275320,Richmond,Station,106,Richmond Station (East Market St),Bike Locker,8,,,,,-33.59845734,150.7526074
+276510,Riverstone,Station,108,Riverstone Station (Riverstone Pde),Bike Locker,4,,,,,-33.67890387,150.860416
+221620,Rockdale,Station,110,Rockdale Station (Railway St),Bike Locker,10,,,,,-33.95105704,151.1369419
+276610,Rooty Hill,Station,112,"Rooty Hill, Rooty Hill Station (Rooty Hill Rd North)",Bike Locker,4,,,,,-33.77134294,150.8439648
+276610,Rooty Hill,Station,111,Rooty Hill Station (Station St) Car Park,Bike Locker,6,,,,,-33.77112829,150.8449252
+2155227,Rouse Hill,Station,114,Rouse Hill Town Centre T-Way Station (Windsor Rd),Bike Locker,8,,,,,-33.69214359,150.9248763
+211610,Rydalmere,Wharf,116,Rydalmere Wharf (John St),Bike Locker,6,,,,,-33.81768605,151.0440449
+214710,Seven Hills,Station,117,Seven Hills Station (Boomerang Pl),Bike Locker,8,,,,,-33.77472325,150.93513
+214710,Seven Hills,Station,118,Seven Hills Station (Terminus Rd),Bike Locker,16,,,,,-33.77385106,150.9358145
+2529218,Shellharbour,Station,,Shellharbour Junction Station,Bike Locker,6,,,,,-34.5912712,150.845027
+277720,Springwood,Station,119,Springwood Station (Station St),Bike Locker,8,,,,,-33.69900087,150.5634965
+206520,St Leonards,Station,120,St Leonards Station (Chandos St),Bike Locker,4,,,,,-33.82205251,151.1945195
+276010,St Marys,Station,122,St Marys Station (Station St),Bike Locker,6,,,,,-33.76234108,150.7750025
+276010,St Marys,Station,121,St Marys Station (Forrester Rd),Bike Locker,8,,,,,-33.7618447,150.7753081
+223210,Sutherland,Station,171,Sutherland Station (East Pde) 2,Bike Locker,8,,,,,-34.0326224,151.0561841
+223210,Sutherland,Station,153,Sutherland Station (East Pde),Bike Locker,6,,,,,-34.03059239,151.0577227
+251550,Thirroul,Station,124,Thirroul Station (Station St),Bike Locker,2,,,,,-34.318785,150.91943
+251550,Thirroul,Station,126,Thirroul Station (Railway Pde) 2,Bike Locker,8,,,,,-34.318796,150.91849
+212010,Thornleigh,Station,127,Thornleigh Station (Railway Pde),Bike Locker,4,,,,,-33.73175862,151.0790534
+251830,Towradgi,Station,128,Towradgi  Station (Towradgi Rd),Bike Locker,2,,,,,-34.38398085,150.9018386
+225910,Tuggerah,Station,129,Tuggerah Station (Bryant Dr),Bike Locker,16,,,,,-33.30775472,151.421367
+220530,Turrella,Station,130,Turrella Station (Hannam St),Bike Locker,4,,,,,-33.93028486,151.1394022
+252610,Unanaderra,Station,131,Unanderra Station (Princes Hwy),Bike Locker,4,,,,,-34.45409017,150.8460512
+207710,Waitara,Station,132,Waitara  Station (Waitara Ave),Bike Locker,4,,,,,-33.70974475,151.1035625
+225930,Warnervale,Station,133,Warnervale Station (Warnervale Rd),Bike Locker,4,,,,,-33.24775323,151.4487168
+217010,Warwick Farm,Station,162,Warwick Farm Station (Remembrance Av),Bike Locker,6,,,,,-33.91395197,150.9345373
+278210,Wentworth Falls,Station,134,Wentworth Falls Station (Railway Pde),Bike Locker,2,,,,,-33.70921019,150.3764893
+274710,Werrington,Station,170,Werrington Station (Kazanis Ct),Bike Locker,4,,,,,-33.75881069,150.7571298
+214510,Westmead,Station,136,Westmead Station (Alexandra Ave),Bike Locker,8,,,,,-33.80904001,150.9889045
+214510,Westmead,Station,135,Westmead Station (Railway Pde),Bike Locker,4,,,,,-33.80874352,150.9891262
+275620,Windsor,Station,137,Windsor Station (Cox St),Bike Locker,8,,,,,-33.61306761,150.8103934
+250020,Wollongong,Station,138,Wollongong Station (Station St),Bike Locker,6,,,,,-34.42698933,150.8886753
+225610,Woy Woy,Station,141,Woy Woy Station (Railway St),Bike Locker,28,,,,,-33.48727788,151.3217419
+225610,Woy Woy,Station,142,Woy Woy Station (Brisbane Water Dr) 1,Bike Locker,20,,,,,-33.48467345,151.324045
+225610,Woy Woy,Station,,Woy Woy Station  (Brisbane Water Dr) 2,Bike Locker,16,,,,,-33.484922,151.323903
+225920,Wyong,Station,145,Wyong Station (Howarth St) 2,Bike Locker,4,,,,,-33.28668613,151.4253672
+225920,Wyong,Station,144,Wyong Station (Howarth St) 1,Bike Locker,6,,,,,-33.28519819,151.4255378
